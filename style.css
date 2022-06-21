@@ -295,24 +295,13 @@ hr{
 
 @media (max-width:500px){
 
-    
-
-    /* header{
-        width: 110%;
-    } */
-
     .liMenu{
-        /* background-color: red; */
         margin-left: 50px;
     } 
 
     #botões{
         align-items: center;
-        /* background-color: red; */
-        display: block;
-        /* margin-left: 80px; */
-        
-        
+        display: block;   
     }
 
     .bot{
@@ -320,11 +309,8 @@ hr{
         margin-top: 6%;
         margin-bottom: 5%;
         width: 70%;
-        /* margin-left: 20%; */
         display: block;
         text-align: center;
-
-
    }
 }
 
